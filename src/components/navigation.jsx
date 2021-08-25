@@ -1,3 +1,4 @@
+import logo from "./logoPequenio.png"
 export const Navigation = (props) => {
   return (
     <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
@@ -16,7 +17,7 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
           </button>
           <a className='navbar-brand page-scroll' href='#page-top'>
-            React Landing Page
+            <img src={logo} style={{height:"35px"}}/>
           </a>{' '}
         </div>
 
@@ -32,7 +33,7 @@ export const Navigation = (props) => {
             </li>
             <li>
               <a href='#about' className='page-scroll'>
-                Quines Somos
+                Quienes Somos
               </a>
             </li>
             <li>
