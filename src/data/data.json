@@ -4,7 +4,7 @@
     "paragraph": "Ingenieria & SIGs"
   },
   "About": {
-    "paragraph": "ITZA es una consultora que se especializa en brindar soluciones eficientes e inteligentes de relevamiento y procesamiento de información geográfica, proporcionando facilidades en la toma de decisiones y el aprovechamiento de los recursos hídricos y territoriales de entes estatales y privados. Para ello brinda los siguientes servicios:",
+    "paragraph": "ITZA es una consultora que se especializa en brindar soluciones eficientes e inteligentes en tareas de relevamiento y procesamiento de información geográfica, proporcionando facilidades en la toma de decisiones y el aprovechamiento de los recursos hídricos y territoriales de entes estatales y privados. Para ello brinda los siguientes servicios:",
     "Why": [
       "Tecnología de vanguiardia",
       "Altos niveles de eficacia",
@@ -12,10 +12,8 @@
       "Multidisciplenareidad"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Inserción territorial",
+      ""
     ]
   },
   "Services": [
@@ -62,9 +60,9 @@
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
+      "img": "img/testimonials/01b.jpeg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "name": "Paso de los Libres"
     },
     {
       "img": "img/testimonials/02.jpg",
@@ -95,23 +93,18 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Joaquin Alegre",
+      "job": "Agrimensura"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Fabian Minotti",
+      "job": "Recursos Hídricos"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Ignacio Olguin",
+      "job": "Administración"
     }
   ],
   "Contact": {
