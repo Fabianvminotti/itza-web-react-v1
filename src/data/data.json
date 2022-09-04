@@ -119,21 +119,26 @@
     {
       "icon": "fa fa-globe",
       "title": "Topografía",
-      "text": "Servicio Topograficos Brindamos un servicio especializado en el relevamiento, procesamiento y replanteos topográficos para proyectos grandes y chicos de obras civiles, viales, sanitarias e hidricas; fortaleciendo todo esto con tecnologías de última generación, drones, sistema GNSS y GPS, estaciones totales y niveles; que nos permiten alcanzar altos niveles de eficaciacia y productos"
+      "text": "Brindamos un servicio de relevamiento, procesamiento y replanteos topográficos para proyectos de cualquier envergadura. Generando productos de alta calidad en el menor tiempo mediante tecnologías de última generación."
     },
     {
       "icon": "fa fa-tint",
       "title": "Recursos Hídricos",
-      "text": "Abordamos de manera integral las problemáticas hídricas, en cuanto al análisis, previsión y posibles acciones sobre cursos de agua y sus margenes. En cuanto a las soluciones sanitarias; llevamos adelante el análisis, previsión y posibles acciones sobre la red de agua y el sistema cloacal de comunas, municipios, cooperativas, privados y cualquier entidad que lo requiera; específicamente en lo referido a la provisión de agua, cloacas, desagües pluviales, viabilidad sist agua potable, estimación de demanda domiciliaria"
+      "text": "Generamos soluciones a problemáticas hidráulicas, hidrológicas y sanitarias con profesionales especialistas en el área y en el uso de modelos matemáticos para brindar las respuestas apropiadas a cada caso."
+    },
+    {
+      "icon": "fa fa-recycle",
+      "title": "Medio Ambiente",
+      "text": "Realizamos estudios de impacto ambiental (EsIA), programas de gestión ambiental y proyectos de ingeniería ambiental para cumplir con las regulaciones y estándares necesario para una correcta operatoria y funcionamiento de cualquier organización."
     },
     {
       "icon": "fa fa-map-marker",
       "title": "SIG",
-      "text": "Ofracemos la generacion y fortalecimiento de sistemas de informacion geografia. Son herramientas de gran potencial que permiten sistematizar la informacion que dispone el municipio, desde el acceso a los servicios publicos de una parcela, pasando por la tasa que tributa, hasta la nomenclatura catastral  municipal o provincial que tiene; permitiendo ver todo esto de forma grafica y accesible para extraer informacion valiosa para la toma de decisiones. Estas herramientas son conocidas por su gran potencial en las areas catastrrales del municipio y por eso muchos lo vienen aplicando alli, lo que robustece la toma de decisiones respecto al sistema tributario municipal."
+      "text": "Desarrollamos sistemas de información geografía para una correcta organización y gestión de información geoespacial para robustecer y afianzar la toma de decisiones basadas en análisis técnicos el territorio."
     },
     {
       "icon": "fa fa-file-text-o",
-      "title": "Documentaciones",
+      "title": "Agrimensura",
       "text": "Nos dedicamos específicamente a elaborar las carpetas técnicas necesarias para que el municipio se pueda presentar a programas y líneas de financiamiento de obras. Nos dedicamos a hacerlo de forma integral, desde el relevamiento, pasando por el análisis técnico y la elaboración de planos e informes necesarios"
     }
   ]
