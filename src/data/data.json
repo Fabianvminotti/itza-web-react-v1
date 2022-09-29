@@ -141,5 +141,10 @@
       "title": "Agrimensura",
       "text": "Nos dedicamos específicamente a elaborar las carpetas técnicas necesarias para que el municipio se pueda presentar a programas y líneas de financiamiento de obras. Nos dedicamos a hacerlo de forma integral, desde el relevamiento, pasando por el análisis técnico y la elaboración de planos e informes necesarios"
     }
+  ],
+  "Galeria":[
+    "public/img/carrousel/imagen1.jpg",
+    "public/img/carrousel/imagen2.jpg",
+    "public/img/carrousel/imagen3.jpg"
   ]
 }
