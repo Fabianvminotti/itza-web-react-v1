@@ -59,17 +59,15 @@ export const Gallery = (props) => {
                   <a
                     href='img/portfolio/03b.jpeg'
                     title='Project Title'
-                    data-lightbox-gallery='gallery1'
-                  >
+                    data-lightbox-gallery='gallery1'>
                     <div className='hover-text'>
                       <h4>Aldea Brasilera - relevamiento de traza de cloacas</h4>
                     </div>
                     <img
                       src='img/portfolio/03bchico.jpg'
                       className='img-responsive'
-                      alt='Project Title'
-                    />{' '}
-                  </a>{' '}
+                      alt='Project Title'/>
+                  </a>
                 </div>
               </div>
             </div>

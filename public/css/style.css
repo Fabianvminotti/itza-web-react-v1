@@ -413,19 +413,20 @@ header .intro-text {
   margin-bottom: 20px;
 }
 .testimonial {
-  position: relative;
-  padding: 20px;
+  display: inline;
+  align-items: center;
+  text-align: center;
+  justify-items: center;
 }
 .testimonial-image {
   float: left;
-  margin-right: 15px;
+ 
 }
 .testimonial-image,
 .testimonial-image img {
   display: block;
-  width: 64px;
-  height: 64px;
-  border-radius: 50%;
+  height: 200px;
+  padding: 20px;
 }
 .testimonial-content {
   position: relative;
