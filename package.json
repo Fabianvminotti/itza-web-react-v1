@@ -12,6 +12,7 @@
     "emailjs-com": "^2.6.4",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-responsive-carousel": "^3.2.23",
     "react-script": "^2.0.5",
     "react-scripts": "^4.0.3",
     "smooth-scroll": "^16.1.3"

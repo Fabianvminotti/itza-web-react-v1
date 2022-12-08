@@ -4,7 +4,8 @@ import { Header } from "./components/header";
 import { Features } from "./components/features";
 import { About } from "./components/about";
 import { Services } from "./components/services";
-import { Gallery } from "./components/gallery";
+//import { Gallery } from "./components/gallery";
+import {Carrousel} from "./components/carrouser"
 import { Testimonials } from "./components/testimonials";
 import { Team } from "./components/Team";
 import { Contact } from "./components/contact";
@@ -22,7 +23,6 @@ const App = () => {
   useEffect(() => {
     setLandingPageData(JsonData);
   }, []);
-
   return (
     <div>
       <Navigation />
@@ -30,7 +30,9 @@ const App = () => {
       <Features data={landingPageData.Features} />
       <About data={landingPageData.About} />
       <Services data={landingPageData.Services} />
-      <Gallery />
+      <Carrousel data={landingPageData.Galleria}  />
+
+      {/* <Gallery /> */}
       <Testimonials data={landingPageData.Testimonials} />
       <Team data={landingPageData.Team} />
       <Contact data={landingPageData.Contact} />

@@ -417,9 +417,11 @@ header .intro-text {
   align-items: center;
   text-align: center;
   justify-items: center;
+  margin: 10px;
 }
 .testimonial-image {
   float: left;
+  margin: 30px;
  
 }
 .testimonial-image,

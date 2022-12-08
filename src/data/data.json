@@ -131,5 +131,15 @@
       "title": "Documentaciones",
       "text": "Nos dedicamos específicamente a elaborar las carpetas técnicas necesarias para que el municipio se pueda presentar a programas y líneas de financiamiento de obras. Nos dedicamos a hacerlo de forma integral, desde el relevamiento, pasando por el análisis técnico y la elaboración de planos e informes necesarios"
     }
+  ],
+  "Galleria": [
+    {
+      "link": "img/team/nacho.png",
+      "desc": "ejemplo uno"
+    },
+    {
+      "link": "img/team/mino.png",
+      "desc": "ejemplo dos"
+    }
   ]
 }
