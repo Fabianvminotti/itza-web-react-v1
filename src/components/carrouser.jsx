@@ -7,6 +7,10 @@ export const Carrousel = (props) => {
     console.log(props)
     return (
 <div style={{ padding: '60px' }}>
+<div className='section-title'>
+          <h2>Nuestro trabajo</h2>
+          
+        </div>
 <Carousel>
             
                     

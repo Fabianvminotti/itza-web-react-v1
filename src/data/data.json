@@ -4,28 +4,29 @@
     "paragraph": "Ingenieria & SIGs"
   },
   "About": {
-    "paragraph": "ITZA es una consultora que se especializa en brindar soluciones eficientes e inteligentes en tareas de relevamiento y procesamiento de información geográfica, proporcionando facilidades en la toma de decisiones y el aprovechamiento de los recursos hídricos y territoriales de entes estatales y privados. Para ello brinda los siguientes servicios:",
+    "paragraph": "ITZA es una consultora especializada en soluciones de ingeniería ambiental. Ofrecemos una amplia gama de servicios que se enfocan en el relevamiento y procesamiento de información geográfica, con el objetivo de proporcionar facilidades en la toma de decisiones y el aprovechamiento de los recursos hídricos , ambientales y territoriales.",
     "Why": [
       "Tecnología de vanguiardia",
       "Altos niveles de eficacia",
-      "Trabajos de alta calidad",
-      "Multidisciplenareidad"
+      "Experiencia multisectorial",
+      "Responsabilidad social y ambiental"
     ],
     "Why2": [
-      "Inserción territorial",
-      ""
+      "Colaboración con expertos en distintas áreas",
+      "Excelencia en el trabajo",
+      "Responsabilidad social y ambiental"
     ]
   },
   "Services": [
     {
       "icon": "fa fa-paper-plane",
-      "name": "Vuelos de Drone",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Servicios topograficos",
+      "text": "Ofrecemos servicios topográficos de alta calidad y precisión utilizando tecnología de vanguardia. Nuestro equipo ofrece relevamientos planialtimétricos y generación de ortomosaicos y modelos digitales de terreno. También ofrecemos replanteo de obra y determinación de puntos fijos y nivelación de precisión."
     },
     {
       "icon": "fa fa-tint",
       "name": "Estudios Hidrológicos",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Ofrecemos análisis hidrológicos para zonas urbanas y rurales, tanto superficiales como subterráneas. Realizamos estimaciones de caudales y identificamos zonas con peligro de anegamiento. También ofrecemos análisis de factibilidad hídrica."
     },
     {
       "icon": "fa fa-globe",
@@ -113,23 +114,20 @@
   "Features": [
     {
       "icon": "fa fa-globe",
-      "title": "Topografía",
-      "text": "Servicio Topograficos Brindamos un servicio especializado en el relevamiento, procesamiento y replanteos topográficos para proyectos grandes y chicos de obras civiles, viales, sanitarias e hidricas; fortaleciendo todo esto con tecnologías de última generación, drones, sistema GNSS y GPS, estaciones totales y niveles; que nos permiten alcanzar altos niveles de eficaciacia y productos"
+      "title": "Servicios de ingenieria",
+      "text": "En ITZA, nos dedicamos a brindar soluciones integrales en ingeniería, ofreciendo servicios de alta calidad en topografía, recursos hídricos y medio ambiente. Nuestro equipo de expertos utiliza tecnologías de vanguardia para brindar relevamientos, procesamientos y replanteos precisos en proyectos de obras civiles, viales, sanitarias e hidráulicas. También nos especializamos en soluciones sanitarias y en la gestión de problemáticas hídricas. Además, brindamos servicios de ingeniería ambiental, desde la evaluación del impacto ambiental de un proyecto hasta la implementación de medidas para proteger y mejorar el medio ambiente. Si desea obtener más información sobre nuestros servicios, no dude en contactarnos. Estamos dispuestos a ayudarlo a alcanzar sus objetivos en ingeniería."
     },
-    {
-      "icon": "fa fa-tint",
-      "title": "Recursos Hídricos",
-      "text": "Abordamos de manera integral las problemáticas hídricas, en cuanto al análisis, previsión y posibles acciones sobre cursos de agua y sus margenes. En cuanto a las soluciones sanitarias; llevamos adelante el análisis, previsión y posibles acciones sobre la red de agua y el sistema cloacal de comunas, municipios, cooperativas, privados y cualquier entidad que lo requiera; específicamente en lo referido a la provisión de agua, cloacas, desagües pluviales, viabilidad sist agua potable, estimación de demanda domiciliaria"
-    },
+    
     {
       "icon": "fa fa-map-marker",
       "title": "SIG",
-      "text": "Ofracemos la generacion y fortalecimiento de sistemas de informacion geografia. Son herramientas de gran potencial que permiten sistematizar la informacion que dispone el municipio, desde el acceso a los servicios publicos de una parcela, pasando por la tasa que tributa, hasta la nomenclatura catastral  municipal o provincial que tiene; permitiendo ver todo esto de forma grafica y accesible para extraer informacion valiosa para la toma de decisiones. Estas herramientas son conocidas por su gran potencial en las areas catastrrales del municipio y por eso muchos lo vienen aplicando alli, lo que robustece la toma de decisiones respecto al sistema tributario municipal."
+      "text": "Ofrecemos la generación y fortalecimiento de sistemas de información geográfica que permiten sistematizar la información del municipio, presentándola de forma gráfica y accesible para extraer información valiosa para la toma de decisiones. Estas herramientas son conocidas por su gran potencial en las áreas catastrales del municipio, lo que robustece la toma de decisiones respecto al sistema tributario."
     },
+    
     {
       "icon": "fa fa-file-text-o",
-      "title": "Documentaciones",
-      "text": "Nos dedicamos específicamente a elaborar las carpetas técnicas necesarias para que el municipio se pueda presentar a programas y líneas de financiamiento de obras. Nos dedicamos a hacerlo de forma integral, desde el relevamiento, pasando por el análisis técnico y la elaboración de planos e informes necesarios"
+      "title": "Servicios de agrimensura",
+      "text": "Brindamos soluciones precisas y confiables en mediciones y análisis de propiedades y terrenos. Realizamos una amplia gama de servicios, utilizando tecnología de vanguardia y contando con expertos altamente capacitados en el campo. Ofrecemos altos niveles de eficiencia y calidad en nuestro trabajo, adaptándonos a las necesidades específicas de cada cliente. Si desea obtener más información sobre nuestros servicios, no dude en contactarnos."
     }
   ],
   "Galleria": [
