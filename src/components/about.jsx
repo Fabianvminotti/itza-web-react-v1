@@ -36,6 +36,7 @@ export const About = (props) => {
           </div>
         </div>
       </div>
+      {/* <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSejenjX-_V4mlfR6FioOKE13cSrd12U1yKfWyPD5uHAo9Z_yA/viewform?embedded=true" width="640" height="1528" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe> */}
     </div>
   );
 };
