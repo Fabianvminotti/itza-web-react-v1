@@ -18,7 +18,7 @@ export const Carrousel = (props) => {
               </div>
               <div>
                 <img src='img/galeria1000x1000/IMG_20210911_161148.jpg' />
-                {<p className="legend">Relevamiento topografico con VANT en la localidad de Aldea Brasilera</p>}
+                {<p className="legend">Relevamiento topografico con VANT en la localidad de Aldea Brasilera, Entre Rios</p>}
               </div>
               <div>
                 <img src='img/galeria1000x1000/IMG_20211127_173814.jpg' />
@@ -27,6 +27,22 @@ export const Carrousel = (props) => {
               <div>
                 <img src='img/galeria1000x1000/IMG_20220107_093039.jpg' />
                 {<p className="legend">Colocacion de punto de apoyo fotogrametrico (PAF)</p>}
+              </div>
+              <div>
+                <img src='img/galeria1000x1000/IMG_20220419_222623_639 (1).webp' />
+                {<p className="legend">Relevamiento de cursos de agua en la zona de San Javier</p>}
+              </div>
+              <div>
+                <img src='img/galeria1000x1000/IMG_20220420_133807_292 (1).webp' />
+                {<p className="legend">Mapa con alturas medidas en el departamento Garay, Santa Fe</p>}
+              </div>
+              <div>
+                <img src='img/galeria1000x1000/IMG_20220420_133807_209 (1).webp' />
+                {<p className="legend">Procesamiento de imagenes satelitales para obtener el indice NDWI </p>}
+              </div>
+              <div>
+                <img src='img/galeria1000x1000/IMG-20220128-WA0015 (1).jpg' />
+                {<p className="legend">Relevamiento topografico en la ciudad de Necochea, Buenos Aires</p>}
               </div>
             </Carousel>
           </div>
