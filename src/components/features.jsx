@@ -1,3 +1,5 @@
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+
 export const Features = (props) => {
   return (
     <div id='features' className='text-center'>
@@ -6,6 +8,7 @@ export const Features = (props) => {
           <h2>Áreas</h2>
         </div>
         <div className='row'>
+        <FontAwesomeIcon icon="fa-solid fa-check-square" />
           {props.data
             ? props.data.map((d, i) => (
                 <div key={`${d.title}-${i}`} className='col-xs-6 col-md-3'>

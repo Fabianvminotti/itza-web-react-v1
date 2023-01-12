@@ -2,11 +2,14 @@ import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import { Carousel } from 'react-responsive-carousel';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+
 export const Carrousel = (props) => {
     
     console.log(props)
     return (
-        <div className="d-flex justify-content-center" style={{ padding: '60px' }}>
+        <div id='portfolio' class="text-center" style={{ padding: '60px' }}>
+
           <div className='text-center' style={{ width: "60%", minWidth: "400px" }}>
             <div className='section-title ' id='portfolio'>
               <h2>Nuestro trabajo</h2>

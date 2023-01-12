@@ -1,5 +1,7 @@
 import React from 'react';
 import { Fragment } from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+
 function Submit(props) {
     var form = document.getElementById("my-form");
     
@@ -48,7 +50,8 @@ function Submit(props) {
           <div className='col-md-8'>
             <div className='row'>
               <div className='section-title'>
-                <h2>Contactenos</h2>
+                <h2>Contactenos                  <FontAwesomeIcon icon="fa-solid fa-check-square" />
+</h2>
                 <p>
                   Por favor complete el formulario y nos pondremos en contacto a la brevedad!
                 </p>

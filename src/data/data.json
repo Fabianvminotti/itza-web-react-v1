@@ -19,7 +19,7 @@
   },
   "Services": [
     {
-      "icon": "fa fa-paper-plane",
+      "icon": "fa fa-location-arrow",
       "name": "Servicios topograficos",
       "text": "Ofrecemos servicios topográficos de alta calidad y precisión utilizando tecnología de vanguardia. Nuestro equipo ofrece relevamientos planialtimétricos y generación de ortomosaicos y modelos digitales de terreno. También ofrecemos replanteo de obra y determinación de puntos fijos y nivelación de precisión."
     },
@@ -29,34 +29,39 @@
       "text": "Ofrecemos análisis hidrológicos para zonas urbanas y rurales, tanto superficiales como subterráneas. Realizamos estimaciones de caudales y identificamos zonas con peligro de anegamiento. También ofrecemos análisis de factibilidad hídrica."
     },
     {
-      "icon": "fa fa-globe",
-      "name": "Servicios Topográficos",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-thumbs-up",
+      "name": "Estudio de Impacto Ambiental",
+      "text": "El Estudio de Impacto Ambiental (EsIA) es una herramienta técnica que identifica, interpreta y mide los impactos ambientales de un proyecto antes de su ejecución. También proporciona medidas para abordar estos impactos, prevenirlos, corregirlos o mitigarlos. Es necesario para obtener la aprobación del proyecto de la autoridad ambiental."
     },
     {
-      "icon": "fa fa-home",
-      "name": "Herramientas para la gestion catastral",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-refresh",
+      "name": "Gestion de Residuos",
+      "text": "ITZA ofrece servicios de gestión de residuos sólidos, desde relevamiento de situación hasta la implementación de la Gestión Integrada de los Residuos Sólidos Urbanos (GIRSU). Con módulos separados para cumplir con las necesidades del cliente, como cuantificación de generación de residuos, diseño de rellenos sanitarios y gestión de residuos peligrosos."
     },
     {
-      "icon": "fa fa-map-marker",
-      "name": "Consultoria en SIGs",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-leaf",
+      "name": "Saneamiento ambiental",
+      "text": "ITZA ofrece servicios de saneamiento ambiental, incluyendo diseño y mejora de plantas de tratamiento, planes de remediación de pasivos ambientales, diseño de tratamiento para residuos sólidos y proyectos forestales, comprometiéndose con la sustentabilidad y el aprovechamiento óptimo de los recursos."
     },
     {
       "icon": "fa fa-folder-open",
-      "name": "Solicitudes de financiamiento de obras",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Mensura y Amojonamiento",
+      "text": "ITZA ofrece servicios de plano de mensura, esencial para realizar escrituras de transferencia de dominio y subdivisiones, unificaciones, sometimiento de Derecho real de Propiedad Horizontal, en Santa Fe y Entre Rios. Ofrecemos mensuras urbanas y rurales, verificación del estado parcelario, ficha de transferencias y amojonamiento certificado."
     },
     {
       "icon": "fa fa-building-o",
-      "name": "Seguimineto de Obras y patrimonio historico",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Loteo y urbanizaciones",
+      "text": "ITZA ofrece servicios de urbanización para inmuebles con dimensiones para una urbanización, incluyendo proyectos de loteo, relevamientos topográficos, mensuras de calles y espacios verdes y estudios de factibilidad hídrica y ambiental, cumpliendo con los códigos urbanísticos de la ciudad."
     },
     {
       "icon": "fa fa-info-circle",
-      "name": "Asesoramiento hídrico y sanitario",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Sistemas de informacion geografica",
+      "text": "ITZA ofrece servicios de SIGs, permitiendo almacenar, sistematizar, visualizar y procesar datos geoespaciales en distintas áreas como gestión urbana, producción, transporte, telecomunicaciones, seguridad, servicios públicos, mercado inmobiliario, estudios hídricos, entre muchas más, ayudando a tomar decisiones inteligentes."
+    },
+    {
+      "icon": "fa fa-bullseye",
+      "name": "Imagenes Satelitales",
+      "text": "ITZA ofrece servicios de análisis de imágenes satelitales para monitorear remotamente variables territoriales y obtener información invisible al ojo humano, incluyendo índices espectrales, para optimizar tareas de campo."
     }
   ],
   "Testimonials": [
@@ -101,6 +106,16 @@
       "img": "img/team/nacho.png",
       "name": "Ignacio Olguin",
       "job": "Administración"
+    },
+    {
+      "img": "img/team/leo.png",
+      "name": "Leonardo Minchiotti",
+      "job": "Medio Ambiente"
+    },
+    {
+      "img": "img/team/nachi.png",
+      "name": "Ignacio Gregorutti",
+      "job": "Comunicación"
     }
   ],
   "Contact": {

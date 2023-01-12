@@ -8,6 +8,9 @@ html {
   width: 100% !important;
   height: 100% !important;
 }
+
+
+
 h2,
 h3,
 h4 {
@@ -37,6 +40,7 @@ h5 {
 }
 p {
   font-size: 15px;
+  text-align: justify;
 }
 p.intro {
   margin: 12px 0 0;
@@ -156,7 +160,7 @@ hr {
   height: 4px;
   width: 60px;
   bottom: 0;
-  margin-left: -30px;
+  /* margin-left: -30px; */
   left: 50%;
 }
 .section-title p {
@@ -258,7 +262,7 @@ header .intro-text {
   width: 100px;
   height: 100px;
   padding: 30px 0;
-  border-radius: 50%;
+  /* border-radius: 50%; */
   background: linear-gradient(to right, #0098d9 0%, #006792 100%);
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
 }
@@ -338,7 +342,7 @@ header .intro-text {
   height: 120px;
   padding: 40px 0;
   background: linear-gradient(to right, #0098d9 0%, #006792 100%);
-  border-radius: 50%;
+  /* border-radius: 50%; */
   color: #fff;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
 }
@@ -356,7 +360,42 @@ header .intro-text {
 /* Portfolio Section */
 #portfolio {
   padding: 100px 0;
+    display: flex;
+    justify-items: center;
+    padding: auto;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+
 }
+
+#rowTeam{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+
+}
+
+.container{
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.row{
+  margin-right: -15px;
+  margin-left: -15px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
 .portfolio-item {
   margin: 1px -15px 0 -14px;
   padding: 0;
@@ -462,11 +501,12 @@ header .intro-text {
 #team .thumbnail .caption {
   padding: 10px 0 0;
   color: #888;
+  text-align: center;
 }
 /* Contact Section */
 #contact {
   padding: 100px 0 60px;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  background: linear-gradient(to right, #0098d9 0%, #006792 100%);
   color: rgba(255, 255, 255, 0.75);
 }
 #contact .section-title {
