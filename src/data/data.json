@@ -4,7 +4,7 @@
     "paragraph": "Ingenieria & SIGs"
   },
   "About": {
-    "paragraph": "ITZA es una consultora especializada en soluciones de ingeniería ambiental. Ofrecemos una amplia gama de servicios que se enfocan en el relevamiento y procesamiento de información geográfica, con el objetivo de proporcionar facilidades en la toma de decisiones y el aprovechamiento de los recursos hídricos , ambientales y territoriales.",
+    "paragraph": "ITZA es una consultora especializada en soluciones de ingeniería. Ofrecemos una amplia gama de servicios que se enfocan en el relevamiento y procesamiento de información geográfica, con el objetivo de proporcionar facilidades en la toma de decisiones y el aprovechamiento de los recursos hídricos , ambientales y territoriales.",
     "Why": [
       "Tecnología de vanguiardia",
       "Altos niveles de eficacia",
@@ -26,7 +26,7 @@
     {
       "icon": "fa fa-tint",
       "name": "Estudios Hidrológicos",
-      "text": "Ofrecemos análisis hidrológicos para zonas urbanas y rurales, tanto superficiales como subterráneas. Realizamos estimaciones de caudales y identificamos zonas con peligro de anegamiento. También ofrecemos análisis de factibilidad hídrica."
+      "text": "Generamos análisis hidrológicos para zonas urbanas y rurales, tanto superficiales como subterráneas. Realizamos estimaciones de caudales y identificamos zonas con peligro de anegamiento. También ofrecemos análisis de factibilidad hídrica."
     },
     {
       "icon": "fa fa-thumbs-up",
@@ -41,22 +41,22 @@
     {
       "icon": "fa fa-leaf",
       "name": "Saneamiento ambiental",
-      "text": "ITZA ofrece servicios de saneamiento ambiental, incluyendo diseño y mejora de plantas de tratamiento, planes de remediación de pasivos ambientales, diseño de tratamiento para residuos sólidos y proyectos forestales, comprometiéndose con la sustentabilidad y el aprovechamiento óptimo de los recursos."
+      "text": "Ofrecemos servicios de saneamiento ambiental, incluyendo diseño y mejora de plantas de tratamiento, planes de remediación de pasivos ambientales, diseño de tratamiento para residuos sólidos y proyectos forestales, comprometiéndose con la sustentabilidad y el aprovechamiento óptimo de los recursos."
     },
     {
       "icon": "fa fa-folder-open",
       "name": "Mensura y Amojonamiento",
-      "text": "ITZA ofrece servicios de plano de mensura, esencial para realizar escrituras de transferencia de dominio y subdivisiones, unificaciones, sometimiento de Derecho real de Propiedad Horizontal, en Santa Fe y Entre Rios. Ofrecemos mensuras urbanas y rurales, verificación del estado parcelario, ficha de transferencias y amojonamiento certificado."
+      "text": "Brindamos servicios de plano de mensura, esencial para realizar escrituras de transferencia de dominio y subdivisiones, unificaciones, sometimiento de Derecho real de Propiedad Horizontal, en Santa Fe y Entre Rios. Ofrecemos mensuras urbanas y rurales, verificación del estado parcelario, ficha de transferencias y amojonamiento certificado."
     },
     {
       "icon": "fa fa-building-o",
       "name": "Loteo y urbanizaciones",
-      "text": "ITZA ofrece servicios de urbanización para inmuebles con dimensiones para una urbanización, incluyendo proyectos de loteo, relevamientos topográficos, mensuras de calles y espacios verdes y estudios de factibilidad hídrica y ambiental, cumpliendo con los códigos urbanísticos de la ciudad."
+      "text": "Proporcionamos servicios de urbanización para inmuebles con dimensiones para una urbanización, incluyendo proyectos de loteo, relevamientos topográficos, mensuras de calles y espacios verdes y estudios de factibilidad hídrica y ambiental, cumpliendo con los códigos urbanísticos de la ciudad."
     },
     {
       "icon": "fa fa-info-circle",
       "name": "Sistemas de informacion geografica",
-      "text": "ITZA ofrece servicios de SIGs, permitiendo almacenar, sistematizar, visualizar y procesar datos geoespaciales en distintas áreas como gestión urbana, producción, transporte, telecomunicaciones, seguridad, servicios públicos, mercado inmobiliario, estudios hídricos, entre muchas más, ayudando a tomar decisiones inteligentes."
+      "text": "Damos servicios de SIGs, permitiendo almacenar, sistematizar, visualizar y procesar datos geoespaciales en distintas áreas como gestión urbana, producción, transporte, telecomunicaciones, seguridad, servicios públicos, mercado inmobiliario, estudios hídricos, entre muchas más, ayudando a tomar decisiones inteligentes."
     },
     {
       "icon": "fa fa-bullseye",
@@ -119,7 +119,7 @@
     }
   ],
   "Contact": {
-    "address": "Pedro Balcar , Parana, Entre Rios",
+    "address": "Pedro Balcar 233, Parana, Entre Rios",
     "phone": "+54 343 506-6172",
     "email": "itza.ingenieriaysig@gmail.com",
     "instagram": "https://www.instagram.com/itzaingenieria/",
