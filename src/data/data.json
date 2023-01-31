@@ -4,16 +4,16 @@
     "paragraph": "Ingenieria & SIGs"
   },
   "About": {
-    "paragraph": "ITZA es una consultora especializada en soluciones de ingeniería. Ofrecemos una amplia gama de servicios que se enfocan en el relevamiento y procesamiento de información geográfica, con el objetivo de proporcionar facilidades en la toma de decisiones y el aprovechamiento de los recursos hídricos , ambientales y territoriales.",
+    "paragraph": "ITZA es una empresa especializada en brindar soluciones eficientes e inteligentes a diferentes proyectos públicos y privados, facilitando la toma de decisiones en base al aprovechamiento de los recursos hídricos, ambientales y territoriales.Nuestro trabajo se sustenta en la aplicación de diversas gamas del conocimiento y tecnologías de vanguardia, que nos permiten desarrollarnos en 3 líneas de acción: Proyectos de Ingeniería, Servicios de Agrimensura y Relevamiento y Procesamiento de Información Geoespacial",
     "Why": [
-      "Tecnología de vanguiardia",
-      "Altos niveles de eficacia",
-      "Experiencia multisectorial",
-      "Responsabilidad social y ambiental"
+      "Interdisciplinariedad para dar respuestas",
+      "Atención personalizada ",
+      "Búsqueda de innovación constante",
+      "Tecnología de vanguardia"
     ],
     "Why2": [
-      "Colaboración con expertos en distintas áreas",
-      "Excelencia en el trabajo",
+      "Productos con alto estándar de calidad",
+      "Colaboración con expertos de distintas área",
       "Responsabilidad social y ambiental"
     ]
   },
@@ -89,6 +89,11 @@
       "img": "img/testimonials/mem.png",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
       "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/protestante.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
     }
   ],
   "Team": [
@@ -130,13 +135,13 @@
     {
       "icon": "fa fa-globe",
       "title": "Servicios de ingenieria",
-      "text": "En ITZA, nos dedicamos a brindar soluciones integrales en ingeniería, ofreciendo servicios de alta calidad en topografía, recursos hídricos y medio ambiente. Nuestro equipo de expertos utiliza tecnologías de vanguardia para brindar relevamientos, procesamientos y replanteos precisos en proyectos de obras civiles, viales, sanitarias e hidráulicas. También nos especializamos en soluciones sanitarias y en la gestión de problemáticas hídricas. Además, brindamos servicios de ingeniería ambiental, desde la evaluación del impacto ambiental de un proyecto hasta la implementación de medidas para proteger y mejorar el medio ambiente. Si desea obtener más información sobre nuestros servicios, no dude en contactarnos. Estamos dispuestos a ayudarlo a alcanzar sus objetivos en ingeniería."
+      "text": "En ITZA, nos especializamos en brindar soluciones integrales en ingeniería, ofreciendo servicios de alta calidad en topografía, recursos hídricos y medio ambiente. Nuestro equipo de profesionales utiliza tecnologías de vanguardia para brindar relevamientos, procesamientos y replanteos precisos en proyectos de obras civiles, viales, sanitarias e hidráulicas. Además, nos dedicamos a brindar soluciones sanitarias y para la gestión de problemáticas hídricas. Asimismo, brindamos servicios de ingeniería ambiental, desde la evaluación del impacto de un proyecto hasta la implementación de medidas para proteger y mejorar el entorno en que se desarrolla su actividad. Si desea obtener más información sobre nuestros servicios, no dude en contactarnos, estamos a disposición para que pueda obtener la solución en ingeniería que requiera. "
     },
     
     {
       "icon": "fa fa-map-marker",
       "title": "SIG",
-      "text": "Ofrecemos la generación y fortalecimiento de sistemas de información geográfica que permiten sistematizar la información del municipio, presentándola de forma gráfica y accesible para extraer información valiosa para la toma de decisiones. Estas herramientas son conocidas por su gran potencial en las áreas catastrales del municipio, lo que robustece la toma de decisiones respecto al sistema tributario."
+      "text": "Ofrecemos la generación y fortalecimiento de Sistemas de Información Geográfica (SIG) que permiten el almacenamiento, sistematización, visualización y procesamiento de datos geoespaciales en el aspecto social, ambiental, productivo y económico. Es con esta capacidad que los SIG revelan el conocimiento más profundo escondido detrás de los datos, ayudando a los usuarios a tomar decisiones más inteligentes."
     },
     
     {
